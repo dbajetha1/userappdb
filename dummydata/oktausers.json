@@ -1,0 +1,26 @@
+[
+  {
+    "id": "00u1abcd1234XYZ",
+    "profile": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com"
+    }
+  },
+  {
+    "id": "00u2efgh5678XYZ",
+    "profile": {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "email": "alice.smith@example.com"
+    }
+  },
+  {
+    "id": "00u3ijkl9012XYZ",
+    "profile": {
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "email": "bob.johnson@example.com"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+{
+    "00u1abcd1234XYZ":[
+  {
+    "id": "0oab12345XYZ",
+    "label": "Google Workspace",
+    "linkUrl": "https://mail.google.com",
+    "appName": "google_workspace",
+    "logoUrl": "https://example.com/logos/google.png",
+    "status": "ACTIVE",
+    "signOnMode": "SAML_2_0"
+  },
+  {
+    "id": "0oab67890XYZ",
+    "label": "Slack",
+    "linkUrl": "https://slack.com",
+    "appName": "slack",
+    "logoUrl": "https://example.com/logos/slack.png",
+    "status": "ACTIVE",
+    "signOnMode": "BASIC_AUTH"
+  }
+],
+"00u2efgh5678XYZ":[
+  {
+    "id": "0oab22222XYZ",
+    "label": "Zoom",
+    "linkUrl": "https://zoom.us",
+    "appName": "zoom",
+    "logoUrl": "https://example.com/logos/zoom.png",
+    "status": "ACTIVE",
+    "signOnMode": "BASIC_AUTH"
+  },
+  {
+    "id": "0oab11111XYZ",
+    "label": "Salesforce",
+    "linkUrl": "https://login.salesforce.com",
+    "appName": "salesforce",
+    "logoUrl": "https://example.com/logos/salesforce.png",
+    "status": "ACTIVE",
+    "signOnMode": "SAML_2_0"
+  }
+],
+"00u3ijkl9012XYZ":[
+  {
+    "id": "0oab22222XYZ",
+    "label": "Zoom",
+    "linkUrl": "https://zoom.us",
+    "appName": "zoom",
+    "logoUrl": "https://example.com/logos/zoom.png",
+    "status": "ACTIVE",
+    "signOnMode": "BASIC_AUTH"
+  },
+  {
+    "id": "0oab33333XYZ",
+    "label": "Confluence",
+    "linkUrl": "https://confluence.example.com",
+    "appName": "confluence",
+    "logoUrl": "https://example.com/logos/confluence.png",
+    "status": "ACTIVE",
+    "signOnMode": "SAML_2_0"
+  }
+]
+}
