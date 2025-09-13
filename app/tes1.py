@@ -80,7 +80,7 @@ def remove_duplicate_nodes(tx, label, id_field):
     tx.run(query)
 
 # Initialize Neo4j connection
-neo4j_conn = Neo4jConnection("neo4j://127.0.0.1:7687", "neo4j", "root1234")
+neo4j_conn = Neo4jConnection("neo4j://0.0.0.0:7687", "neo4j", "your-strong-password")
 
 # Prepare lists of IDs
 user_ids = [user["id"] for user in users]
